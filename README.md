@@ -1,4 +1,4 @@
 # robotron-2000
 Project developed to study JavaScript 
 
-https://wendellpbsilva.github.io/robotron2000/
+https://wendellpbsilva.github.io/robotron-2000/
